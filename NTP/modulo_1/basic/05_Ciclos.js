@@ -10,7 +10,7 @@ for (let index = 0; index < array.length; index++) {
 }
 */
 //for in
-var persona ={
+/*var persona ={
     nombre: "Kevin",
     apellido: "Morales",
     viajes: ["",""]
@@ -19,3 +19,10 @@ var persona ={
 for (const key in persona) {
     console.log(persona[key])
 }
+*/
+var iterable =[1,2,3,4,5]
+var iterable2 = "Kevin"
+for (const valor of iterable){
+    console.log(valor);
+}
+
