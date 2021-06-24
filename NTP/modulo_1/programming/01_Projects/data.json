@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "first_name": "August",
+        "last_name": "McTague",
+        "email": "amctague0@about.com"
+    },
+    {
+        "id": 2,
+        "first_name": "Grethel",
+        "last_name": "Arne",
+        "email": "garne1@washingtonpost.com"
+    },
+    {
+        "id": 3,
+        "first_name": "Miranda",
+        "last_name": "Clelland",
+        "email": "mclelland2@dell.com"
+    },
+    {
+        "id": 4,
+        "first_name": "Gamaliel",
+        "last_name": "Poser",
+        "email": "gposer3@cmu.edu"
+    },
+    {
+        "id": 5,
+        "first_name": "Elisha",
+        "last_name": "Pascoe",
+        "email": "epascoe4@dell.com"
+    },
+    {
+        "id": 6,
+        "first_name": "Dusty",
+        "last_name": "Ilyas",
+        "email": "dilyas5@cloudflare.com"
+    },
+    {
+        "id": 7,
+        "first_name": "Ofella",
+        "last_name": "Philp",
+        "email": "ophilp6@wikia.com"
+    },
+    {
+        "id": 8,
+        "first_name": "Major",
+        "last_name": "Cellone",
+        "email": "mcellone7@soundcloud.com"
+    },
+    {
+        "id": 9,
+        "first_name": "Skelly",
+        "last_name": "Edger",
+        "email": "sedger8@mac.com"
+    },
+    {
+        "id": 10,
+        "first_name": "Urban",
+        "last_name": "Howard - Gater",
+        "email": "uhowardgater9@a8.net"
+    }
+]
