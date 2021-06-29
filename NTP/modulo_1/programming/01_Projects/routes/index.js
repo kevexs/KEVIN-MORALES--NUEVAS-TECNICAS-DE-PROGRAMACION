@@ -5,10 +5,12 @@ const { Router } = require('express');
 const router = Router()
 
 //traer data
-const data = require('../data.json')
+const data = require('../data.json');
+const { DataValidator } = require('../middlewares/DataValidator');
+
 //creacion de los entpoint
-router.get("/", (req, res =>{
-    res.send("Hola mundo conexpress ")
+router.get("/", DataValidator (req, res =>{
+    res.send(req.pruebaDeMiddleware)
 }))
 
 
